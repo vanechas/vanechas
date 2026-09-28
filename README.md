@@ -1,4 +1,4 @@
-### hi, i'm vanessa! ♡
+### hi, i'm vanessa! 
 
 🎓 CS & Statistics student @ BINUS  
 📊 aspiring data engineer  
