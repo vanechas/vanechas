@@ -2,7 +2,7 @@
 
 🎓 CS & Statistics student @ BINUS  
 📊 aspiring data engineer  
-🐍 python • sql • r • 
+🐍 python • sql • r 
 ☁️ learning data engineering & web developing
 🏔️ coding by day, hiking by weekend  
 💌 building things, learning things, breaking things
