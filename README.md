@@ -9,4 +9,4 @@
 
 > "still figuring it out, but having fun along the way"
 >
-> [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vanechas)](https://github.com/stats-organization/github-stats-extended)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vanechas)](https://github.com/pranesh-2005/github-readme-stats-fast)
